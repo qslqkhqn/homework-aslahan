@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.app-block {
+    width: 1170px;
+    margin: auto;
+}
