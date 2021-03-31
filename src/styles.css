@@ -4,8 +4,8 @@
 }
 
 
-body {
-    font-family: 'Poppins';
+.rod-app {
+    font-family: 'Lato';
 }
 
 .counter {
@@ -15,4 +15,94 @@ body {
 .rod-app {
     width: 1170px;
     margin: auto;
+}
+
+
+.ounter {
+    margin-top: 8px;
+    font-weight: bold;
+    color: #F27C0F;
+    font-size: 20px;
+}
+
+
+.headers {
+    font-size: 50px;
+}
+
+.navigation {
+    list-style-type: none;
+    display: flex;
+    margin-top: 8px;
+    justify-content: space-between;
+    font-family: 'Poppins';
+    
+    
+}
+
+.headere {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rod-navigation {
+    width: 200px;
+    justify-content: space-between;
+    margin-left: 
+}
+
+
+.big-nil {
+    font-family: 'Poppins';
+    color: #F27C0F;
+    font-size: 288px;
+    text-align: center;
+}
+
+
+.big-group-five {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+
+.butt {
+    background-color: #003399;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Lato';    
+}
+
+.rod-footer {
+    margin-top: 30vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rod-logotip {
+    display: flex;
+}
+
+
+.ounter1 {
+    font-weight: bold;
+    color: gray;
+    font-size: 20px;
+}
+
+
+.rod-footer-spisok {
+    width: 200px;
+    justify-content: space-between;
+}
+
+
+
+.footer-spisok {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
 }
