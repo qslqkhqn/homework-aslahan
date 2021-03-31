@@ -5,9 +5,9 @@ function MainContent() {
                 0
             </div>
             <div className='big-group-five'>
-                <div className='butt'>Увеличить</div>
-                <div className='butt2'>Уменьшить</div>
-                <div className='butt3'>Сбросить</div>
+                <div className='butt'>Increase</div>
+                <div className='butt2'>Reduce</div>
+                <div className='butt3'>Flip</div>
             </div>
         </section>
     )

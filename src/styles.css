@@ -129,8 +129,11 @@
 
 
 .rod-footer-spisok {
-    width: 200px;
+    margin-right: 300px;
+    color: gray;
+    width: 400px;
     justify-content: space-between;
+    font-size: 20px;
 }
 
 
@@ -139,4 +142,5 @@
     list-style-type: none;
     display: flex;
     justify-content: space-evenly;
+    list-style-position: unset;
 }
