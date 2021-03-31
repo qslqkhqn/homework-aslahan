@@ -2,9 +2,9 @@ function Menu() {
     return(
         <div className='rod-navigation'>
             <ul className='navigation'>
-                <li>Главное</li>
-                <li>О нас</li>
-                <li>Контакты</li>
+                <li>Main</li>
+                <li>About Us</li>
+                <li>Contacts</li>
             </ul>
         </div>
 

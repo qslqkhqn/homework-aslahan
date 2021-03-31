@@ -11,13 +11,13 @@ function Footer() {
             </div>
             <div className='rod-footer-spisok'>
                 <ul className='footer-spisok'>
-                    <li>Партнёрам</li>
-                    <li>Разработчикам</li>
-                    <li>Вакансии</li>
+                    <li>Partners</li>
+                    <li>Developers</li>
+                    <li>Offers</li>
                 </ul>
             </div>
             <div className='copyright'>
-                ООО 'интукод', 2020г.
+                ООО 'intocode', 2020г.
             </div>
 
 
