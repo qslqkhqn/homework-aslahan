@@ -1,9 +1,15 @@
-function Header() {
+import Menu from './Menu';
+import Logo from "./Logo";
+
+
+function Header(props) {
     return(
-        <div className='counter'>
-            Counter
+        <div>
+            <Menu/>
+            <Logo/>
         </div>
     )
-};
+}
+
 
 export default Header;

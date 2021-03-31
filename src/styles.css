@@ -4,7 +4,12 @@
 }
 
 
-.app-block {
+body {
+    font-family: 'Poppins';
+}
+
+
+.rod-app {
     width: 1170px;
     margin: auto;
 }
