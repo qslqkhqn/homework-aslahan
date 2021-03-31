@@ -1,15 +1,15 @@
+import Logo from './Logo';
 import Menu from './Menu';
-import Logo from "./Logo";
 
-
-function Header(props) {
-    return(
-        <div>
-            <Menu/>
+function Header() {
+    return (
+    <div className='headere'>
+        <div className='header-logo'>
             <Logo/>
+            <Menu/>
         </div>
+    </div>
     )
 }
-
 
 export default Header;

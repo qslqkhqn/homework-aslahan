@@ -1,9 +1,12 @@
-import Logotip from './Ellipse1.svg';
+import Ellipse1 from './Ellipse1.svg';
 
 function Logo() {
     return(
-        <div>
-            <img src={Logotip} alt='logo' width='50' className='header-logo'/>
+        <div className='counter'>
+            <img src={Ellipse1} alt='logo' className='headers'/>
+            <div className='ounter'>
+                ounter
+            </div>
         </div>
     )
 }
